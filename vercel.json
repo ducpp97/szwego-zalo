@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "framework": null,
+  "routes": [
+    {
+      "src": "/cb",
+      "dest": "/api/cb"
+    }
+  ]
+}
